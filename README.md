@@ -17,6 +17,8 @@
     * `docker run -d redis`
 * To get container id
     * `docker ps`
+* To get container status with docker compose
+    * `docker-compose ps`
 * Stop those containers by 
     * `docker stop container_id`
 * Start up multiple containers in the background
