@@ -1,4 +1,4 @@
-# Simple Node app with Docker
+# Docker Compose With Multiple Local Containers
 
 * Build docker image
     * `docker build .`
